@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        System.exit(10);
+        System.exit(5);
 
     }
 }
