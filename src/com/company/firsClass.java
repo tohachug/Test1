@@ -4,4 +4,5 @@ public class firsClass {
     int x;
     int y;
     int z;
+    int u;
 }
